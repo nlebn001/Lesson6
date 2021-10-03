@@ -9,11 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson6Task2", "Lesson6Task
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson6Task3", "Lesson6Task3\Lesson6Task3.csproj", "{9684DD3C-CEB9-42EA-AFF5-7680E9E94CA2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson6Task4", "Lesson6Task4\Lesson6Task4.csproj", "{4B71476F-F3D6-4EEC-B74F-E41B4D913482}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson6Task4", "Lesson6Task4\Lesson6Task4.csproj", "{4B71476F-F3D6-4EEC-B74F-E41B4D913482}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson6Task5", "Lesson6Task5\Lesson6Task5.csproj", "{1C0AB7EB-7D93-41EA-BE34-F772BEE32DB7}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursorPositionTesting", "CursorPositionTesting\CursorPositionTesting.csproj", "{730B8E41-A4F0-484D-882A-E23259951ED5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson6Task5", "Lesson6Task5\Lesson6Task5.csproj", "{1C0AB7EB-7D93-41EA-BE34-F772BEE32DB7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -41,10 +39,6 @@ Global
 		{1C0AB7EB-7D93-41EA-BE34-F772BEE32DB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1C0AB7EB-7D93-41EA-BE34-F772BEE32DB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1C0AB7EB-7D93-41EA-BE34-F772BEE32DB7}.Release|Any CPU.Build.0 = Release|Any CPU
-		{730B8E41-A4F0-484D-882A-E23259951ED5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{730B8E41-A4F0-484D-882A-E23259951ED5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{730B8E41-A4F0-484D-882A-E23259951ED5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{730B8E41-A4F0-484D-882A-E23259951ED5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
